@@ -1,0 +1,21 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files\Super Mario 64 HD\SuperMario64HD_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.974 seconds
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
